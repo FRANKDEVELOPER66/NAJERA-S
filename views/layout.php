@@ -64,7 +64,7 @@
         <div class="row justify-content-center text-center">
             <div class="col-12">
                 <p style="font-size:xx-small; font-weight: bold;">
-                        Comando de Informática y Tecnología, <?= date('Y') ?> &copy;
+                        FRANKD'S DEVELOPMENT, <?= date('Y') ?> &copy;
                 </p>
             </div>
         </div>
